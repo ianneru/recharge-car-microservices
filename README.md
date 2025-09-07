@@ -27,12 +27,12 @@ O sistema é composto pelos seguintes microsserviços:
 
 ## Tecnologias Utilizadas
 
-- **.NET 9**: A versão mais recente do framework .NET, fornecendo alto desempenho, recursos modernos de C# e uma plataforma unificada para a construção de todos os microsserviços.
-- **ASP.NET Core**: Usado para criar os microsserviços de API web, fornecendo um framework leve e de alto desempenho para a construção de APIs RESTful.
-- **C# 13**: A versão mais recente da linguagem de programação C#, usada para escrever o código para todos os microsserviços.
-- **Comunicação Orientada a Eventos**: Os microsserviços se comunicam de forma assíncrona usando um padrão orientado a eventos. Isso promove o baixo acoplamento e a alta escalabilidade.
+- **.NET 9
+- **ASP.NET Core
+- **C# 13**
+- **Comunicação Orientada a Eventos**
 - **Message Bus em Memória**: Para este exemplo, um simples message bus em memória é usado para facilitar a comunicação entre os serviços. Em um ambiente de produção, isso seria substituído por uma solução de message broker mais robusta, como RabbitMQ ou Azure Service Bus.
-- **REST APIs**: Os microsserviços expõem endpoints RESTful para interação com o mundo exterior (por exemplo, um aplicativo de front-end ou um sistema de terceiros).
+- **REST APIs**
 
 ## Fluxo de Eventos
 
