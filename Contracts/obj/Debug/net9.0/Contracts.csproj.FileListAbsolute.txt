@@ -1,0 +1,12 @@
+c:\dev\recharge-car-microservices\Contracts\bin\Debug\net9.0\Contracts.deps.json
+c:\dev\recharge-car-microservices\Contracts\bin\Debug\net9.0\Contracts.dll
+c:\dev\recharge-car-microservices\Contracts\bin\Debug\net9.0\Contracts.pdb
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfoInputs.cache
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfo.cs
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\Contracts.csproj.CoreCompileInputs.cache
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\Contracts.sourcelink.json
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\Contracts.dll
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\refint\Contracts.dll
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\Contracts.pdb
+c:\dev\recharge-car-microservices\Contracts\obj\Debug\net9.0\ref\Contracts.dll

@@ -1,0 +1,16 @@
+c:\dev\recharge-car-microservices\MessageBus\bin\Debug\net9.0\MessageBus.deps.json
+c:\dev\recharge-car-microservices\MessageBus\bin\Debug\net9.0\MessageBus.dll
+c:\dev\recharge-car-microservices\MessageBus\bin\Debug\net9.0\MessageBus.pdb
+c:\dev\recharge-car-microservices\MessageBus\bin\Debug\net9.0\Contracts.dll
+c:\dev\recharge-car-microservices\MessageBus\bin\Debug\net9.0\Contracts.pdb
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.csproj.AssemblyReference.cache
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.AssemblyInfoInputs.cache
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.AssemblyInfo.cs
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.csproj.CoreCompileInputs.cache
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.sourcelink.json
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.csproj.Up2Date
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.dll
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\refint\MessageBus.dll
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\MessageBus.pdb
+c:\dev\recharge-car-microservices\MessageBus\obj\Debug\net9.0\ref\MessageBus.dll
