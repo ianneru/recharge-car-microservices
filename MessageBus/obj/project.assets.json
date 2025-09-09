@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
+      "projectUniqueName": "C:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
       "projectName": "MessageBus",
-      "projectPath": "c:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
+      "projectPath": "C:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
       "packagesPath": "C:\\Users\\ian_n\\.nuget\\packages\\",
-      "outputPath": "c:\\dev\\recharge-car-microservices\\MessageBus\\obj\\",
+      "outputPath": "C:\\dev\\recharge-car-microservices\\MessageBus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
-              "projectPath": "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj"
+            "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj"
             }
           }
         }

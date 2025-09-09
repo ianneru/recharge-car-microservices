@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj": {}
+    "C:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj": {}
   },
   "projects": {
-    "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
+    "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\ian_n\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\recharge-car-microservices\\Contracts\\obj\\",
+        "outputPath": "C:\\dev\\recharge-car-microservices\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "c:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj": {
+    "C:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
+        "projectUniqueName": "C:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
         "projectName": "MessageBus",
-        "projectPath": "c:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
+        "projectPath": "C:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj",
         "packagesPath": "C:\\Users\\ian_n\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\recharge-car-microservices\\MessageBus\\obj\\",
+        "outputPath": "C:\\dev\\recharge-car-microservices\\MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
-                "projectPath": "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj"
+              "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "c:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj": {
+    "C:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj",
+        "projectUniqueName": "C:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj",
         "projectName": "Notificacoes",
-        "projectPath": "c:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj",
+        "projectPath": "C:\\dev\\recharge-car-microservices\\Notificacoes\\Notificacoes.csproj",
         "packagesPath": "C:\\Users\\ian_n\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\recharge-car-microservices\\Notificacoes\\obj\\",
+        "outputPath": "C:\\dev\\recharge-car-microservices\\Notificacoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,11 +166,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
-                "projectPath": "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj"
+              "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj"
               },
-              "c:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj": {
-                "projectPath": "c:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj"
+              "C:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj": {
+                "projectPath": "C:\\dev\\recharge-car-microservices\\MessageBus\\MessageBus.csproj"
               }
             }
           }

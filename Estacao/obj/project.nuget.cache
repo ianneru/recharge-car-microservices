@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qC3ey3AKgV4=",
+  "dgSpecHash": "yEJuB9Ro2A0=",
   "success": true,
-  "projectFilePath": "c:\\dev\\recharge-car-microservices\\Estacao\\Estacao.csproj",
+  "projectFilePath": "C:\\dev\\recharge-car-microservices\\Estacao\\Estacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ian_n\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
     "C:\\Users\\ian_n\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

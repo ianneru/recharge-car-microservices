@@ -1,0 +1,9 @@
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.csproj.AssemblyReference.cache
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.AssemblyInfoInputs.cache
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.AssemblyInfo.cs
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.csproj.CoreCompileInputs.cache
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\recharge-car-microservices\Carregamento\obj\Debug\net9.0\Carregamento.sourcelink.json

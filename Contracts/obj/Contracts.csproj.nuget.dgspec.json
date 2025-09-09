@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {}
+    "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
+    "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "c:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\dev\\recharge-car-microservices\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\ian_n\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\recharge-car-microservices\\Contracts\\obj\\",
+        "outputPath": "C:\\dev\\recharge-car-microservices\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
